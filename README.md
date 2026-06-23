@@ -5,11 +5,5 @@ The R script wrote the dataset: "dataset_clean.csv". This dataset was used in JA
 Additionally, R studio was also used for visualization with the creation of the simple plot and the Johnson Neyman chart. 
 
 
-
-
-
-
-
-https://github.com/susaneribeiro/researchmethods2026/blob/main/CFA_markdown_vs2.html 
 ### [CFA usability x efffectiveness  ||| retrieval x spaced](https://susaneribeiro.github.io/researchmethods2026/CFA_markdown_vs2.html ) 
 
