@@ -9,19 +9,7 @@ Additionally, R studio was also used for visualization with the creation of the 
 
 
 
----
-How to write about me with links: 
-
-markdown html: 
 
 https://github.com/susaneribeiro/researchmethods2026/blob/main/CFA_markdown_vs2.html 
-### [Multiple regression with ratio variables](https://susaneribeiro.github.io/researchmethods2026/CFA_markdown_vs2.html ) 
+### [CFA usability x efffectiveness  ||| retrieval x spaced](https://susaneribeiro.github.io/researchmethods2026/CFA_markdown_vs2.html ) 
 
-
-original file: 
-
-https://github.com/susaneribeiro/R_application_UU/blob/main/kaggle_exam_score_ANOVA_regression/regression_ratio_variables.html
-
-how it's linked in about me: 
-https://susaneribeiro.github.io/R_application_UU/Exploratory_Factor_Analysis/EFA_with_documentation.html 
-### [Multiple regression with ratio variables](https://susaneribeiro.github.io/R_application_UU/kaggle_exam_score_ANOVA_regression/regression_ratio_variables.html) 
